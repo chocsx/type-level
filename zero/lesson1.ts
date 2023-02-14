@@ -15,4 +15,3 @@ namespace genericFunction {
     type test2 = Expect<Equal<type2 res2, string>>
 
 }
-    function identity(a: TODO): TODO {
